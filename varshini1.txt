@@ -14,4 +14,4 @@ while(num!=0)
   printf("reversed number:%d\n",reversed_num);
 
   return 0;
-}
+}#i checked it
